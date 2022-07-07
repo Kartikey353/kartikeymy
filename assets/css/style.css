@@ -184,7 +184,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("/assets/img/photo-1531297484001-80022131f5a1.jpg") top center;
+  background: url("photo-1531297484001-80022131f5a1.jpg") top center;
   background-size: cover;
 }
 #hero:before {
